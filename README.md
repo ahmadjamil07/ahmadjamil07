@@ -4,7 +4,7 @@
 
 🚀 Passionate about **Web Development, Cybersecurity, and Digital Marketing**  
 
-🔍 Exploring opportunities to grow as a **tech professional** and contribute to impactful projects    
+🔍 Exploring opportunities to grow as a **tech professional** and contribute to impactful projects 
 
 ---
 
@@ -44,10 +44,22 @@
 ---
 
 ## 🌐 Let's Connect 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmadjamil07)  
+- [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ahmadjamil07) 
 - 💻 [GitHub](https://github.com/ahmadjamil07)  
 - 🚀 [Portfolio](https://www.ahmadjamil.online)  
 
 ---
 
 ✨ *“Always learning, always building.”*  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadjamil07)
+
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmadjamil07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+
