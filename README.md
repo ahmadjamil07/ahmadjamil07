@@ -50,16 +50,8 @@
 
 ---
 
-✨ *“Always learning, always building.”*  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadjamil07)
+✨ *“**Always learning, always building.**”*  
 
 
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmadjamil07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
 
 
